@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionBank.API", "QuestionBank.API.csproj", "{C77D08FC-48F8-4DAA-B074-1EA0B67323EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionBank.Domain", "..\QuestionBank.Domain\QuestionBank.Domain.csproj", "{6573769D-F876-4942-B0EB-089C17BF4AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionBank.Infrastructure", "..\QuestionBank.Infrastructure\QuestionBank.Infrastructure.csproj", "{CC3A53ED-450F-46EF-B306-ACB00DD35F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionBank.Application", "..\QuestionBank.Application\QuestionBank.Application.csproj", "{C73CE165-CB5D-44A3-88EA-4396518C0EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionBank.Shared", "..\QuestionBank.Shared\QuestionBank.Shared.csproj", "{C5659324-9565-45B7-91EB-65C4E474434F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E39F346A-A373-4DB4-AAD6-94E6845FDF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C77D08FC-48F8-4DAA-B074-1EA0B67323EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77D08FC-48F8-4DAA-B074-1EA0B67323EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77D08FC-48F8-4DAA-B074-1EA0B67323EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77D08FC-48F8-4DAA-B074-1EA0B67323EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6573769D-F876-4942-B0EB-089C17BF4AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6573769D-F876-4942-B0EB-089C17BF4AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6573769D-F876-4942-B0EB-089C17BF4AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6573769D-F876-4942-B0EB-089C17BF4AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3A53ED-450F-46EF-B306-ACB00DD35F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3A53ED-450F-46EF-B306-ACB00DD35F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3A53ED-450F-46EF-B306-ACB00DD35F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3A53ED-450F-46EF-B306-ACB00DD35F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73CE165-CB5D-44A3-88EA-4396518C0EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73CE165-CB5D-44A3-88EA-4396518C0EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73CE165-CB5D-44A3-88EA-4396518C0EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73CE165-CB5D-44A3-88EA-4396518C0EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5659324-9565-45B7-91EB-65C4E474434F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5659324-9565-45B7-91EB-65C4E474434F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5659324-9565-45B7-91EB-65C4E474434F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5659324-9565-45B7-91EB-65C4E474434F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C77D08FC-48F8-4DAA-B074-1EA0B67323EB} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{6573769D-F876-4942-B0EB-089C17BF4AB4} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{CC3A53ED-450F-46EF-B306-ACB00DD35F62} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C73CE165-CB5D-44A3-88EA-4396518C0EFD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C5659324-9565-45B7-91EB-65C4E474434F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91B1A5A2-87FE-4F4C-B310-65D7310037C7}
+	EndGlobalSection
+EndGlobal
