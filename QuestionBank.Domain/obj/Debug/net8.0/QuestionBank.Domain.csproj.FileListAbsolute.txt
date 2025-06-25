@@ -1,0 +1,14 @@
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\bin\Debug\net8.0\QuestionBank.Domain.deps.json
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\bin\Debug\net8.0\QuestionBank.Domain.runtimeconfig.json
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\bin\Debug\net8.0\QuestionBank.Domain.dll
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\bin\Debug\net8.0\QuestionBank.Domain.pdb
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\obj\Debug\net8.0\QuestionBank.Domain.csproj.AssemblyReference.cache
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\obj\Debug\net8.0\QuestionBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\obj\Debug\net8.0\QuestionBank.Domain.AssemblyInfoInputs.cache
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\obj\Debug\net8.0\QuestionBank.Domain.AssemblyInfo.cs
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\obj\Debug\net8.0\QuestionBank.Domain.csproj.CoreCompileInputs.cache
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\obj\Debug\net8.0\QuestionBank.Domain.dll
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\obj\Debug\net8.0\refint\QuestionBank.Domain.dll
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\obj\Debug\net8.0\QuestionBank.Domain.pdb
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\obj\Debug\net8.0\QuestionBank.Domain.genruntimeconfig.cache
+D:\ILP_01_2024-25\Project\QuestionBank.Domain\obj\Debug\net8.0\ref\QuestionBank.Domain.dll

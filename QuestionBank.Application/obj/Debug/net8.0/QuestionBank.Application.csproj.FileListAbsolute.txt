@@ -1,0 +1,14 @@
+D:\ILP_01_2024-25\Project\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Application.deps.json
+D:\ILP_01_2024-25\Project\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Application.runtimeconfig.json
+D:\ILP_01_2024-25\Project\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Application.dll
+D:\ILP_01_2024-25\Project\QuestionBank.Application\bin\Debug\net8.0\QuestionBank.Application.pdb
+D:\ILP_01_2024-25\Project\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.csproj.AssemblyReference.cache
+D:\ILP_01_2024-25\Project\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ILP_01_2024-25\Project\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.AssemblyInfoInputs.cache
+D:\ILP_01_2024-25\Project\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.AssemblyInfo.cs
+D:\ILP_01_2024-25\Project\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.csproj.CoreCompileInputs.cache
+D:\ILP_01_2024-25\Project\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.dll
+D:\ILP_01_2024-25\Project\QuestionBank.Application\obj\Debug\net8.0\refint\QuestionBank.Application.dll
+D:\ILP_01_2024-25\Project\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.pdb
+D:\ILP_01_2024-25\Project\QuestionBank.Application\obj\Debug\net8.0\QuestionBank.Application.genruntimeconfig.cache
+D:\ILP_01_2024-25\Project\QuestionBank.Application\obj\Debug\net8.0\ref\QuestionBank.Application.dll
